@@ -4,11 +4,65 @@
   
   
   <entry>
-    <title>奇怪的第一个界面……？</title>
+    <title>Electronic VOCALOID</title>
+    <link href="/2024/02/17/Electronic-VOCALOID/"/>
+    <url>/2024/02/17/Electronic-VOCALOID/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>缓慢更新中……</p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>你可能经常会在一些 VOCALOID 查成分表中，看到这么一条问题：<em>你认为 VOCALOID 是歌手还是乐器？</em>如果完全没有接触过 Electronic VOCALOID 甚至电子音乐，你一定会下意识地认为这个问题纯属空穴来风；但是如果对电子音乐有着一定了解，甚至对 Vaporwave 很熟悉的话，你就会觉得这个问题值得深究。是的，在VOCALOID 曲中， VOCALOID 不一定作为歌手存在，而可能作为<strong>人声乐器（采样）</strong>存在。</p><p>此处可以举一个例子，在初次听到时，你可能都不会意识到这首歌是术曲：<a href="https://vocadb.net/S/155811">Crimson - Wisp X feat. 初音ミク</a></p>        <div id="aplayer-NJNNzHox" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content">[00:03.50]このままじゃだめだと  不能如此继续了[00:07.70]わたしまた  我得另寻他路[00:08.98]歩きだそう  坚强独行[00:12.97]わたしまた  我得另寻他路[00:14.89]このままじゃだめだと  不能如此继续了[00:19.00]わたしまた  我得另寻他路[00:20.43]歩きだそう  坚强独行[00:24.23]わたしまた  我得另寻他路[00:59.90]雪が降り  大地飞雪[01:04.80]わたしは  我还独身一人[01:05.45]それが水になります  即使雪已化成水[01:11.01]雪が降り  大地飞雪[01:15.33]わたしは  我还独身一人[01:16.76]それが水になります  即使雪已化成水[01:22.51]雪が降り  大地飞雪[01:26.66]わたしは  我还独身一人[01:28.60]それが水になります  即使雪已化成水[01:33.90]雪が降り  大地飞雪[01:38.00]わたしは  我还独身一人[01:39.47]それが水になります  即使雪已化成水[01:45.00]このままじゃだめだと  不能如此继续了[01:49.38]わたしまた  我得另寻他路[01:50.77]歩きだそう  坚强前行[01:54.58]わたしまた  我另寻他路[01:56.52]このままじゃだめだと  不能如此继续了[02:00.65]わたしまた  我得另寻他路[02:02.15]歩きだそう  坚强前行[02:05.94]わたしまた  我得另寻他路[02:19.20]雪が降り  大地飞雪[02:23.13]わたしは  我还独身一人[02:24.50]それが水になります  即使雪已化成水[02:30.41]このままじゃだめだと  不能如此继续了[02:34.47]わたしまた  我得另寻他路[02:36.00]歩きだそう  坚强前行[02:39.85]わたしまた  我还独身一人[02:41.70]雪が降り  大地飞雪[02:45.69]わたしは  我还独身一人[02:47.11]それが水になります  不能如此继续了[02:52.87]雪が降り  大地飞雪[02:56.99]わたしは  我还独身一人[02:58.38]それが水になります  不能如此继续啦</pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-NJNNzHox"),            narrow: false,            autoplay: false,            showlrc: 2,            music: {              title: "Crimson",              author: "初音ミク, Wisp X",              url: "Crimson.mp3",              pic: "/2024/02/17/Electronic-VOCALOID/Crimson.webp",              lrc: "Crimson.lrc"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs">このままじゃだめだと  不能如此继续了<br>わたしまた  我得另寻他路<br>歩きだそう  坚强独行<br>わたしまた  我得另寻他路<br>雪が降り  大地飞雪<br>わたしは  我还独身一人<br>それが水になります  即使雪已化成水<br></code></pre></td></tr></table></figure><p><a href="https://vocadb.net/T/123/electronic">Electronic</a> 是 VOCALOID 的重要分支之一，包含了所有使用电子乐乐器与电子乐技术的术曲。这个分支在 VOCALOID 2 发售的初期就已出现，与 Pop 和 Rock 三足鼎立。在大部分的 Electronic VOCALOID 中 VOCALOID 仍作为歌手存在，像 Crimson 这种将 VOCALOID 作为乐器使用的只是少数（且大多被开除术曲籍）。</p><blockquote><p>其他音乐怎么分，VOCALOID 就该怎么分。Rap 有 23.exe，Classical 有一滴P和 Treow，Jazz 有 OSTER 和 GYARI，Experimental 有 ATOLS 和 kikuo。</p></blockquote><p>本文将会大致按照时间顺序，介绍那些在 VOCALOID 历史上（个人认为）重要的 Electronic VOCALOID P主，来阐述这一分支的发展。</p><h1 id="Clean-Tears"><a href="#Clean-Tears" class="headerlink" title="Clean Tears"></a>Clean Tears</h1><blockquote><p>Clean Tears是活跃在日本 niconico 动画及 YouTube 上的 VOCALOID 职人、作曲家、DJ。现居住于日本神奈川。</p><p>2007年9月27日投稿第一首 VOCALOID 歌曲《水镜の庭》。</p><p>2008年，参与 piapro 上世嘉《Project DIVA》的征稿活动，并收录进游戏中。</p><p>2009年2月15日投稿 VOCALOID 歌曲《Pusse cafe》，该作品目前也是 Clean Tears 唯一一首殿堂曲。</p><p>2016年，Clean Tears 的作品《旅の終わり》作为2016年初音未来 EXPO 演唱会北京场的开场曲之一。 <sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="萌娘百科：https://zh.moegirl.org.cn/Clean_Tears">[1]</span></a></sup></p></blockquote><p>Clean Tears 在 Niconico 活动之前就已经是一名在Muzie活跃的DJ。2007年9月27日，Clean Tears 在 NicoNico 上发布了《水镜の庭》而正式作为P主出道。这首歌被认为是可考的最早 Electronic VOCALOID 乐曲<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label="Niconico百科：https://dic.nicovideo.jp/a/cleantears">[2]</span></a></sup>。从这首歌中我们可以感受到当时 Clean Tears 的作曲编曲能力已经相当成熟，但是调教比较生涩（时代局限性）。</p>        <div id="aplayer-grlyeMqO" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content">[00:29.90]そっとそっと浮かべるの[00:33.39]静かの海へ[00:36.89]寂しげ箱舟は離れていく[00:43.81]彷徨う風落ちていく月[00:47.21]回る回る恋の夜に[00:50.89]水鏡に波を許して[00:54.55]消えてゆくの二人そっと[01:13.30]そっとそっと浮かべるの[01:16.52]静かの海へ[01:20.25]寂しげ箱舟は離れていく[01:27.45]そっとそっと眺めるの[01:31.15]無人の庭を[01:34.67]どこまで眺めても君がいない[01:41.44]彷徨う風落ちていく月[01:44.90]回る回る恋の夜に[01:48.66]水鏡に波を許して[01:52.26]消えてゆくの二人[01:56.18]揺れる木々は落ちゆく日々は[01:59.24]寒い夜に影ひとつ[02:03.25]君の声が私の声が[02:06.76]水鏡と消えるそっと[02:39.87]遠く遠く離れていても[02:43.31]水鏡の映える夜に[02:46.92]貴方乗せた船を浮かべて[02:50.50]この庭を彩る[02:54.18]彷徨う風落ちていく月[02:57.80]回る回る月の夜に[03:01.33]水鏡に波を許して[03:04.95]消えてゆくの二人そっと</pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-grlyeMqO"),            narrow: false,            autoplay: false,            showlrc: 2,            music: {              title: "水鏡の庭",              author: "初音ミク, Clean Tears",              url: "水鏡の庭.mp3",              pic: "/2024/02/17/Electronic-VOCALOID/Vocatrio.jpg",              lrc: "水鏡の庭.lrc"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>注：此处使用的是以 はちみつれもん（蜂蜜柠檬）之名于2007年12月31日发布的 Vocatrio 专辑中的版本，与<a href="https://www.nicovideo.jp/watch/sm1169503">sm1169503</a>有较大出入。</p><p>Clean Tears 的个人社团名为 <a href="http://scx-ct.net/">S.C.X</a>，VOCALOID 专辑也多采用该名义发布。初创时主要曲风为 Trance，近年来风格逐渐多样化；而使用的 VOCALOID 仅有初音未来。</p>        <div id="aplayer-isqLHNuQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content">[02:21.61]迷宮を行く波　電子音  在迷宫中穿行的电子音[02:28.50]リピートのスイッチ押して  按着回放的开关[02:35.47]毎秒揺らす　入力装置  每一秒都在摇晃，输入设备[02:42.41]変化して　外に放つ情報  不断变化，向外发射信息（大雾）[03:17.34]inverse relation　舞い散る遺伝子  inverse relation散落的遗传因子[03:24.08]揺らぎながら　様相を変えてく  一边摇晃一边变换着模样[03:31.08]陰影 motion 　淡く揺らめく  含蓄的motion淡淡的摇曳[03:38.10]交錯しても　分かり合う distance  交汇之后互相理解distance[03:44.97]ずっと　前を向いてく　ずっと  径直朝着前方，一直这样[04:40.75]inverse relation　解釈は七色  inverse relation解读是七彩的[04:47.62]支えながら　重力に逆らえ  一边支持着一边克服重力[04:54.54]愛の action 　気づいているよ  爱的action注意到了哦[05:01.44]嘘ついても　少し許して  即便是说谎也会稍微原谅一下[05:08.54]今は　私を見て　傍で  现在看着我，在你旁边[05:22.49]inverse relation...</pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-isqLHNuQ"),            narrow: false,            autoplay: false,            showlrc: 2,            music: {              title: "Inverse Relation",              author: "初音ミク, Clean Tears",              url: "Inverse Relation.flac",              pic: "/2024/02/17/Electronic-VOCALOID/Reverberations.jpg",              lrc: "Inverse Relation.lrc"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>值得一提是的，Clean Tears 与 あいざわ 组成了 はちみつれもん（蜂蜜柠檬），在东方中活跃，因此 Clean Tears 在东方的名声似乎更大。</p><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>萌娘百科：<a href="https://zh.moegirl.org.cn/Clean_Tears">https://zh.moegirl.org.cn/Clean_Tears</a><a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span>Niconico百科：<a href="https://dic.nicovideo.jp/a/cleantears">https://dic.nicovideo.jp/a/cleantears</a><a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+    
+    
+    <categories>
+      
+      <category>Music</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Music</tag>
+      
+      <tag>VOCALOID</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>关于Banner</title>
+    <link href="/2024/02/17/About-Picture/"/>
+    <url>/2024/02/17/About-Picture/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本站的Banner是カラメルスターズ（焦糖星）的曲绘，画师为 NOCA51 。可惜的是，大约在2022年中旬， NOCA51 老师突然注销了所有的社交媒体账号，并删除了pixiv的所有画作。</p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=30963867&bvid=BV1iW411o7EZ&cid=54068400&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"> </iframe></div>]]></content>
+    
+    
+    <categories>
+      
+      <category>Music</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Music</tag>
+      
+      <tag>VOCALOID</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>First Page</title>
     <link href="/2024/02/17/first/"/>
     <url>/2024/02/17/first/</url>
     
-    <content type="html"><![CDATA[<p>2024-02-17 建站，以后或许会当做日记本来使用……？</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2024-02-17 建站，以后或许会当做日记本来使用……？</p>]]></content>
     
     
     
