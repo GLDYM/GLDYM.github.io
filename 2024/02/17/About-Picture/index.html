@@ -426,19 +426,25 @@
   
     <article id="comments" lazyload>
       
-  <div id="gitalk-container"></div>
+  <div id="twikoo"></div>
   <script type="text/javascript">
-    Fluid.utils.loadComments('#gitalk-container', function() {
-      Fluid.utils.createCssLink('/css/gitalk.css')
-      Fluid.utils.createScript('https://lib.baomitu.com/gitalk/1.8.0/gitalk.min.js', function() {
+    Fluid.utils.loadComments('#comments', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/twikoo/1.6.8/twikoo.all.min.js', function() {
         var options = Object.assign(
-          {"clientID":"44393e6ca2e86a74f40d","clientSecret":"008c0e1f27a1371f1e928c41aaa09e493512468d","repo":"gldym.github.io","owner":"GLDYM","admin":["GLDYM"],"language":"zh-CN","labels":["Gitalk"],"perPage":10,"pagerDirection":"last","distractionFreeMode":false,"createIssueManually":false,"proxy":"https://cors-anywhere.1l1.icu/https://github.com/login/oauth/access_token"},
+          {"envId":"https://gldym.netlify.app/.netlify/functions/twikoo","region":"ap-shanghai","path":"window.location.pathname"},
           {
-            id: 'ed4be989e13cbbbbb804c502cc66bfcb'
+            el: '#twikoo',
+            path: 'window.location.pathname',
+            onCommentLoaded: function() {
+              Fluid.utils.listenDOMLoaded(function() {
+                var imgSelector = '#twikoo .tk-content img:not(.tk-owo-emotion)';
+                Fluid.plugins.imageCaption(imgSelector);
+                Fluid.plugins.fancyBox(imgSelector);
+              });
+            }
           }
         )
-        var gitalk = new Gitalk(options);
-        gitalk.render('gitalk-container');
+        twikoo.init(options)
       });
     });
   </script>
